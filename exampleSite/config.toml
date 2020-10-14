@@ -33,10 +33,6 @@ URL = "privacy-policy"
 name = "Privacy Policy"
 weight = 4
 [[menu.main]]
-URL = ""
-name = "New"
-weight = "3.5"
-[[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
@@ -44,6 +40,10 @@ weight = 1
 URL = "products"
 name = "Products"
 weight = 2
+[[menu.main]]
+URL = ""
+name = "New"
+weight = "3.5"
 [[menu.main]]
 URL = "blog"
 name = "Blog"
